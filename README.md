@@ -506,7 +506,7 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
     <td>
       <ul>
         <li><a href="https://youtu.be/8or6T1uztD0">Github OAuth</a></li>
-        <li><a herf='https://github.com/ericpkatz/acme_github_2212'>demo code</a></li>
+        <li><a herf="https://github.com/ericpkatz/acme_github_2212">demo code</a></li>
       </ul>
     </td>
   </tr>
