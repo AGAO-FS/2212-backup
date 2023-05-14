@@ -6,8 +6,8 @@
 
 ## **Helpful Resources/Links**
 
-
 ## A TABLE OF CLASS CONTENT
+
 <table>
   <tr>
     <th style="width: 60px;"> Date </th>
@@ -233,7 +233,7 @@
     <td><b>Day 19: Pillars practice 3 </b></td>
     <td>
      <ul>
-         <li><a href='https://fullstackacademy.zoom.us/rec/share/usuyfZb7KmJguGPxybq2hP9cXXJ6lm_bpRikjHVtV86rBg6J8uYJjjnEFtWsVOYi.hcBZ8etEHRDqZDw6 
+         <li><a href='https://fullstackacademy.zoom.us/rec/share/usuyfZb7KmJguGPxybq2hP9cXXJ6lm_bpRikjHVtV86rBg6J8uYJjjnEFtWsVOYi.hcBZ8etEHRDqZDw6
 Passcode: $!g+A1Cm'>Lecture Recording 1, passcode: $!g+A1Cm </a></li>
          <li><a href='https://github.com/janie-lee-developer/virtualfields_instancemeths'>Demo Code</a></li>
       </ul>
@@ -322,7 +322,7 @@ Passcode: $!g+A1Cm'>Lecture Recording 1, passcode: $!g+A1Cm </a></li>
     <td><b>Day 26: React day 4, Bootstrap </b></td>
     <td>
      <ul>
-        <li><a href='https://fullstackacademy.zoom.us/rec/share/kU9onJY-0WDxwPyUq1jX070wv2Ol-L6OqE7Njhu4k3syeYRUXvrympWT5qCBG07P.jcLpwLRaPLfqDW8B 
+        <li><a href='https://fullstackacademy.zoom.us/rec/share/kU9onJY-0WDxwPyUq1jX070wv2Ol-L6OqE7Njhu4k3syeYRUXvrympWT5qCBG07P.jcLpwLRaPLfqDW8B
 Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
          <li><a href='https://github.com/janie-lee-developer/demo_class'>Lecture Demo Code</a></li>
       </ul>
@@ -429,7 +429,7 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
     <td>
      <ul>
         <li><a href='https://youtu.be/4vhAZcs4po4'>Lecture Recording 1</a></li>
-         <li><a href='https://youtu.be/I5UwS2FwJfo'>Lectur Recording 2</a></li>
+         <li><a href='https://youtu.be/I5UwS2FwJfo'>Lecture Recording 2</a></li>
       </ul>
     </td>
   </tr>
@@ -450,6 +450,7 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
         <li><a href='https://www.youtube.com/watch?v=TgnnkXuFpVs'>Linked lists prework</a></li>
         <li><a href='https://www.youtube.com/watch?v=jJ6OSegT1eU'>Big O and linked lists from a previous cohort (not the recording from this cohort)</a></li>
         <li><a href='https://www.youtube.com/watch?v=CxAAYFBpMj4'>Linked list workshop from a previous cohort (not the recording from this cohort)</a></li>
+        <li><a href='https://github.com/FullstackAcademy/PairExercise.LinkedList'>linked tree repo</a></li>
       </ul>
     </td>
   </tr>
@@ -461,6 +462,7 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
         <li><a href='https://www.youtube.com/watch?v=qsb70UEKdGQ'>Binary search tree prework</a></li>
         <li><a href='https://www.youtube.com/watch?v=veegeJNwDxo'>Binary search tree lecture from a previous cohort (not the recording from this cohort)</a></li>
         <li><a href='https://www.youtube.com/watch?v=NKwV1-9ec4U'>Binary search tree workshop from a previous cohort (not the recording from this cohort)</a></li>
+        <li><a href='https://github.com/FullstackAcademy/PairExercise.BinarySearchTree'>binary search tree repo</a></li>
       </ul>
     </td>
   </tr>
@@ -471,6 +473,7 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
       <ul>
         <li><a href='https://youtu.be/qIzkATrDeG8'>JPFP code review</a></li>
         <li><a href='https://youtu.be/_-bpVuORNhQ'>Sorting lecture</a></li>
+        <li><a href='https://github.com/FullstackAcademy/BubbleSort-Flex'>bubble sort</a></li>
       </ul>
     </td>
   </tr>
@@ -493,6 +496,7 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
         <li><a href="https://www.youtube.com/watch?v=AXRMI2SJecc">Acme auth- class and instance methods</a></li>
         <li><a href='https://youtu.be/yv41R6gKYAs'>Hashing passwords</a></li>
         <li><a href="https://youtu.be/u1mG0ifno1E">Update user profile</a></li>
+        <li><a href='https://github.com/ericpkatz/acme-auth-hashed-password'>Hashing passwords & update user demo code</a></li>
       </ul>
     </td>
   </tr>
@@ -502,6 +506,7 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
     <td>
       <ul>
         <li><a href="https://youtu.be/8or6T1uztD0">Github OAuth</a></li>
+        <li><a herf='https://github.com/ericpkatz/acme_github_2212'>demo code</a></li>
       </ul>
     </td>
   </tr>
@@ -512,8 +517,10 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
       <ul>
         <li><a href="https://youtu.be/Sd0NZ-SbLk4">Adding notes feature</a></li>
         <li><a href="https://youtu.be/TzQgG8Ip_wU">Grace shopper feature</a></li>
+        <li><a href="https://github.com/ericpkatz/acme-user-notes-v2">acme-user notes code</a></li>
       </ul>
     </td>
+
   </tr>
   <tr>
     <td><b>4.27.2023</b></td>
@@ -522,8 +529,10 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
       <ul>
         <li><a href="https://youtu.be/mxzkqcZYSz8">Merge conflicts</a></li>
         <li><a href="https://youtu.be/CCAXMecSHx0">Previous props</a></li>
+        <li><a href="https://github.com/ericpkatz/a-simple-app">a simple app demo code</a></li>
       </ul>
     </td>
+
   </tr>
   <tr>
     <td><b>5.1.2023</b></td>
@@ -531,8 +540,10 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
     <td>
       <ul>
         <li><a href="https://youtu.be/mHoSixGzVOQ">Base64 image</a></li>
+        <li><a href="https://github.com/ericpkatz/profs-tasks-streaming-images">Base64 image code</a></li>
       </ul>
     </td>
+
   </tr>
    <tr>
     <td><b>5.3.2023</b></td>
@@ -540,8 +551,10 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
     <td>
       <ul>
         <li><a href="https://youtu.be/Oc8CiPXW_hI">Local cart</a></li>
+        <li><a href="https://github.com/prof-stanley-2212-FSA/grace-shopper">Local cart demo code</a></li>
       </ul>
     </td>
+
   </tr>
   <tr>
     <td><b>5.4.2023</b></td>
@@ -549,6 +562,7 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
     <td>
       <ul>
         <li><a href="https://youtu.be/7jS8mEZgH98">Presentation</a></li>
+        <li><a href='https://www.youtube.com/watch?v=DqtlR0y0suo&ab_channel=JohnWatsonRooney'>Philip's scraping method</a></li>
       </ul>
     </td>
   </tr>
@@ -558,7 +572,28 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
     <td>
       <ul>
         <li><a href="https://youtu.be/bN13U8t1m5M">Google address autocomplete</a></li>
-        <li><a href="https://github.com/ericpkatz/acme_github_2212">how to hide keys</a></li>
+        <li><a href='https://github.com/ericpkatz/the_acme_addresses'>acme-addresses demo code</a></li>
+        <li><a href="https://github.com/ericpkatz/acme_github_2212">how to hide keys demo code</a></li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td><b>5.10.2023</b></td>
+    <td><b>Day 51: websockets setup</b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/CexPy4xvD-k">video</a></li>
+        <li><a href="https://github.com/ericpkatz/acme-sockets">acme-sockets demo code</a></li>
+        <li><a href='https://github.com/Stannie-Lim/envkeys'>stanley's code (env/secret keys)</a></li>
+      </ul>
+    </td>
+  </tr>  <tr>
+    <td><b>5.11.2023</b></td>
+    <td><b>Day 52: websockets</b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/ZOj0OKgl7CY">websockets</a></li>
+        <li><a href="https://github.com/ericpkatz/acme-sockets">acme-sockets demo code</a></li>
       </ul>
     </td>
   </tr>
