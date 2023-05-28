@@ -596,6 +596,45 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
         <li><a href="https://github.com/ericpkatz/acme-sockets">acme-sockets demo code</a></li>
       </ul>
     </td>
+  </tr>  <tr>
+    <td><b>5.15.2023</b></td>
+    <td><b>Day 53: Many to many</b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/jxm16frAeVw">Many to many associations</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>5.18.2023</b></td>
+    <td><b>Day 54: Capstone</b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/_lxAFhHcSoY">Valid parentheses reacto</a></li>
+        <li><a href="https://youtu.be/1KB6xI0c5ds">Capstone intro</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>5.22.2023</b></td>
+    <td><b>Day 55: Linked list cycles reacto</b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/FqSc8fHbkgs">Linked list cycles</a></li>
+        <li><a href="https://gist.github.com/Stannie-Lim/3b2bfcefeb724450c8afe9058a23d12c">Gist for linked list intersection </a></li>
+        <li><a href="https://gist.github.com/Stannie-Lim/cb4c36be1b80846e38ab744634c41bdd">Gist for linked list cycle </a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>5.24.2023</b></td>
+    <td><b>Day 56: Google map markers</b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/p-Z2uiA6HyU">Google maps markers</a></li>
+        <li><a href="https://github.com/ericpkatz/the_acme_addresses">demo code</a></li>
+      </ul>
+    </td>
   </tr>
 </table>
 # 2212-backup
