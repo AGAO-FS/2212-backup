@@ -636,5 +636,111 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
       </ul>
     </td>
   </tr>
+  <tr>
+    <td><b>5.25.2023</b></td>
+    <td><b>Day 57: </b></td>
+    <td>
+      <ul>
+        // <li><a href=""></a></li>
+        <li><a href="https://github.com/ericpkatz/acme-sockets">demo code for acme sockets</a></li>
+        <li><a href='https://youtu.be/pZH91G-_Wa4'>linked list intersection vid</a></li>
+        <li><a href="https://gist.github.com/Stannie-Lim/3b2bfcefeb724450c8afe9058a23d12c">gist for linked list intersection</a></li>
+        <li><a href="https://gist.github.com/Stannie-Lim/cb4c36be1b80846e38ab744634c41bdd">gist for linked list cycle</a></li>
+      </ul>
+    </td>
+  </tr><tr>
+    <td><b>5.31.2023</b></td>
+    <td><b>Day 58: chat application</b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/HAFGZv7QBYc">vid</a></li>
+        // <li><a href="">demo code</a></li>
+      </ul>
+    </td>
+  </tr><tr>
+    <td><b>6.1.2023</b></td>
+    <td><b>Day 59:fb oauth </b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/KwWd-_iw2rI">vid</a></li>
+        <li><a href="https://github.com/ericpkatz/acme_github_2212">demo code</a></li>
+        <li><a href='https://gist.github.com/Stannie-Lim/03002d3ea9ee928d379e84fbad6390d0'>gist for binary search tree</li>
+      </ul>
+    </td>
+  </tr><tr>
+    <td><b>6.5.2023</b></td>
+    <td><b>Day 60:acme products facet search </b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/bjxe_2mdbTA">vid</a></li>
+        <li><a href="https://github.com/FullstackAcademy/Acme-Products-Facet-Search">demo code</a></li>
+        <li><a href='https://youtu.be/7V_4ekTGcrY'>binary search tree solution</a></li>
+      </ul>
+    </td>
+  </tr><tr>
+    <td><b>6.7.2023</b></td>
+    <td><b>Day 61: graphs </b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/j2hgCjcNY9c">graphs intro</a></li>
+        <li><a href="https://youtu.be/CXyQdzYspls">breadth first graph solution vid</a></li>
+      </ul>
+    </td>
+  </tr><tr>
+    <td><b>6.8.2023</b></td>
+    <td><b>Day 62: graphs </b></td>
+    <td>
+      <ul>
+        <li><a href=""></a></li>
+        <li><a href="https://leetcode.com/problems/find-if-path-exists-in-graph/"> leetcode</a></li>
+        <li><a href='https://gist.github.com/Stannie-Lim/d6938669b2b91bb275541831a5039b5e'>graphs gist </a></li>
+      </ul>
+    </td>
+  </tr><tr>
+    <td><b>6.12.2023</b></td>
+    <td><b>Day 63: heaps</b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/_X9_QZKDuOc">heaps video</a></li>
+        <li><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/">practice problems</a></li>
+        <li><a href="https://leetcode.com/problems/sort-characters-by-frequency/">practice problems</a></li>
+        <li><a href="https://leetcode.com/problems/k-closest-points-to-origin/">practice problems-***BIG ONE***</a></li>
+        <li><a href="https://leetcode.com/problems/top-k-frequent-elements/">practice problems</a></li>
+        <li><a href="https://leetcode.com/problems/top-k-frequent-words/">practice problems</a></li>
+        <li><a href="https://www.algoexpert.io/questions/continuous-median">practice problems</a></li>
+        <li><a href="https://www.algoexpert.io/questions/sort-k-sorted-array">practice problems</a></li>
+        <li><a href="https://www.algoexpert.io/questions/merge-sorted-arrays">practice problems</a></li>
+      </ul>
+    </td>
+  </tr><tr>
+    <td><b>6.14.2023</b></td>
+    <td><b>Day 64: nada </b></td>
+    <td>
+      <ul>
+        <li>nothing</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>6.15.2023</b></td>
+    <td><b>Day 65: more graphs</b></td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/mnSFxmjcIes">more graphs reacto</a></li>
+        <li><a href="https://leetcode.com/problems/number-of-islands/">reacto</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>6.21.2023</b></td>
+    <td><b>Day 66: </b></td>
+    <td>
+      <ul>
+        <li><a href=""></a></li>
+        <li><a href="">demo code</a></li>
+      </ul>
+    </td>
+  </tr>
+  
 </table>
 # 2212-backup
