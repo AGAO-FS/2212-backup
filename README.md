@@ -733,14 +733,17 @@ Passcode: 5cyfKS^8'>Lecture Recording. Password: 5cyfKS^8 </a></li>
   </tr>
   <tr>
     <td><b>6.21.2023</b></td>
-    <td><b>Day 66: </b></td>
+    <td><b>Day 66:server side facet search</b></td>
     <td>
       <ul>
-        <li><a href=""></a></li>
-        <li><a href="">demo code</a></li>
+        <li><a href="https://youtu.be/VOAih-nDjks">part 1</a></li>
+                <li><a href="https://youtu.be/qmu3_5MJTEo">part 2</a></li>
+
+        <li><a href="https://github.com/ericpkatz/facets-server-side">demo code</a></li>
       </ul>
     </td>
   </tr>
+  
   
 </table>
 # 2212-backup
